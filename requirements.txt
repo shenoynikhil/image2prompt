@@ -2,3 +2,6 @@ kaggle==1.5.13
 transformers==4.27.4
 pandas==2.0.0
 matplotlib==3.7.1
+sklearn
+timm
+tqdm

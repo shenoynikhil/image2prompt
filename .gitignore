@@ -4,3 +4,6 @@
 .pytest_cache/
 
 **/.DS_Store
+OFA*
+hub/
+ci.pt
